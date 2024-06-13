@@ -1,2 +1,2 @@
 # my-SQL-projects
-author-Aishwarya
+print("hello world")
